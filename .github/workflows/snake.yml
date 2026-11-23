@@ -2,6 +2,8 @@ name: Update contribution snake
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 16 * * *"
 
 permissions:
   contents: read
