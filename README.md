@@ -1,27 +1,18 @@
-![NIGHT FORGE：夜色中的几何剑形徽记](./assets/night-banner.svg)
+![Keat Kirito](./assets/banner.svg)
 
-# keat kirito / 夜间工坊
+### Keat Kirito
 
-想给智能体多一点探索陌生环境的余地，也想给科研推导多一条可以回头核对的路径。
+研究 AI agent 和形式化验证，也写全栈应用。
 
-| 工作台 | 在探索什么 |
-| --- | --- |
-| 智能体系统 | 智能体如何理解开放环境，在条件变化时调整行动。 |
-| 物理形式化 | 怎样用 Lean 4 表达物理假设，并检查推导过程。 |
-| AI 科研基础设施 | 怎样把问题、证据和复核记录接进日常工作流。 |
+**最近在做**
 
-**工具箱**：TypeScript / Next.js · Python · Lean 4
+- **PhysForm**：把统计物理论文里的结论写成 Lean 4 定理，由 AI 证明，再交给独立的检查程序复核。
+- **agent takein**：研究 agent 进入陌生环境后，怎样摸清规则、用好工具、不再重复犯错。
+- **AI 招生 CRM**：Next.js + TypeScript 全栈项目，私有仓库。
 
-<details>
-<summary>展开贡献轨迹</summary>
+**常用工具**：TypeScript · Next.js · Python · Lean 4
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keatlxw/Keatlxw/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Keatlxw/Keatlxw/output/github-contribution-grid-snake.svg" alt="Keatlxw 的 GitHub 贡献贪吃蛇动画" />
+  <img src="https://raw.githubusercontent.com/Keatlxw/Keatlxw/output/github-contribution-grid-snake.svg" alt="贡献动画" />
 </picture>
-
-[查看 GitHub 原生贡献日历](https://github.com/Keatlxw#contribution-graph)
-
-</details>
-
-[浏览公开仓库](https://github.com/Keatlxw?tab=repositories)

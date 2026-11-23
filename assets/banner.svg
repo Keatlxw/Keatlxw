@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="232" viewBox="0 0 960 232" role="img" aria-labelledby="title desc">
-  <title id="title">Night Forge</title>
-  <desc id="desc">A geometric sword emblem in a violet night sky.</desc>
+  <title id="title">Keat Kirito</title>
+  <desc id="desc">Banner with a geometric sword emblem.</desc>
   <defs>
     <linearGradient id="night" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#111426"/><stop offset="1" stop-color="#252041"/>
@@ -17,6 +17,6 @@
   <path d="m791 77-10 35-30 30-7-7z" fill="#a687f3"/>
   <path d="m731 122 26 26m-14-14-19 19m-3-3 6 6" fill="none" stroke="#e4dcff" stroke-width="5" stroke-linecap="round"/>
   <path d="M58 61h59" stroke="#bba4ff" stroke-width="3"/>
-  <text x="56" y="125" fill="#f3eeff" font-family="system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="3">NIGHT FORGE</text>
-  <text x="59" y="168" fill="#cdbaf6" font-family="monospace" font-size="20" letter-spacing="2">KEAT KIRITO / FIELD NOTES</text>
+  <text x="56" y="125" fill="#f3eeff" font-family="system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="3">KEAT KIRITO</text>
+  <text x="59" y="168" fill="#cdbaf6" font-family="monospace" font-size="20" letter-spacing="2">agents · formal verification · Lean 4</text>
 </svg>
